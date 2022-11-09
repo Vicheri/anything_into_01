@@ -1,6 +1,0 @@
-Task 01 – Hello World!
-Write a simple program that asks the user to input a name and outputs a simple greeting, such as ‘Hi Name! Nice to meet you!’ and in the other line, ‘Welcome to the Programing Course!’.
-
-print ("Hi, student. What's your name?")
-name = input()
-print ("Hi "+ name + "! " + "Welcome to the Programming Course!" )
